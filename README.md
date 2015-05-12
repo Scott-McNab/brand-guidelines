@@ -1,3 +1,3 @@
 # Brand Guidelines
 
-* [Guidelines](http://scott-mcnab.github.io/brand-guidelines/uncommon-knowledge/index.html)
+* [Guidelines](http://scott-mcnab.github.io/brand-guidelines/uncommonknowledge/index.html)
